@@ -5,21 +5,21 @@ This **HEADER LIBRARY** provides a set of macros and type definitions designed t
 ## **KEY FEATURES:**
 
 #### Type Definitions:
-    Provides aliases for common C data types (e.g., `BOOL`, `INT`, `FLOAT`, `CHAR`, etc.).
+* Provides aliases for common C data types (e.g., `BOOL`, `INT`, `FLOAT`, `CHAR`, etc.).
 #### Pointer Type Definitions:
-    Defines convenient pointer types for the basic data types (e.g., `CHAR_PTR`, `INT_PTR`, etc.).
+* Defines convenient pointer types for the basic data types (e.g., `CHAR_PTR`, `INT_PTR`, etc.).
 #### Struct & Union Macros:
-    Streamlines the definition of structs and unions.
+* Streamlines the definition of structs and unions.
 #### Control Flow Macros:
-    Simplifies control flow statements with intuitive macro names (e.g., `IF`, `ELSE`, `WHILE`, `FOR`, etc.).
+* Simplifies control flow statements with intuitive macro names (e.g., `IF`, `ELSE`, `WHILE`, `FOR`, etc.).
 #### Loop Control Macros: 
-    Provides macros for controlling loop execution (e.g., `BREAK`, `CONTINUE`, `RETURN`).
+* Provides macros for controlling loop execution (e.g., `BREAK`, `CONTINUE`, `RETURN`).
 #### Utility Macros: 
-    Includes a collection of common utility macros for various operations (e.g., `MAX`, `MIN`, `ABS`, `CLAMP`, `ARRAY_SIZE`, etc.).
+* Includes a collection of common utility macros for various operations (e.g., `MAX`, `MIN`, `ABS`, `CLAMP`, `ARRAY_SIZE`, etc.).
 #### Collection Operation Macros: 
-    Offers macros for operating on collections efficiently (e.g., `MAP`).
+* Offers macros for operating on collections efficiently (e.g., `MAP`).
 #### Casting and Null Macros: 
-    Provides macros for type casting and handling null pointers (e.g., `CAST`, `NULL`).
+* Provides macros for type casting and handling null pointers (e.g., `CAST`, `NULL`).
 
 ## EXAMPLE USAGE:
 
